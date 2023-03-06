@@ -30,4 +30,4 @@ Something is very wrong... Image by <a href="https://pixabay.com/illustrations/m
 
 The following functions have errors. Your task is to figure out what each function is supposed to do by examining the expected outputs and fix them. Use the autograder to check your answers, and use the error messages provided to help fix your code.
 
-### Function 1
+
